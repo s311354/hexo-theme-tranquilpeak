@@ -22,7 +22,7 @@
     "tranquil",
     "peak"
   ],
-  "author": "Louis Barranqueiro",
+  "author": "Louis Liu",
   "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/LouisBarranqueiro/hexo-theme-tranquilpeak/issues"
@@ -52,8 +52,9 @@
   "dependencies": {
     "@fancyapps/fancybox": "3.5.7",
     "@fortawesome/fontawesome-free": "5.15.1",
-    "gitment": "0.0.3",
     "algoliasearch": "4.10.3",
+    "gitment": "0.0.3",
+    "hexo-generator-feed": "^3.0.0",
     "hexo-util": "2.4.0",
     "jquery": "3.5.1",
     "jsdom": "^16.7.0",
