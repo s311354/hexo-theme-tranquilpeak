@@ -312,3 +312,11 @@ sharing_options:
 #        title: "Odnoklassniki"
 #        icon: "fab fa-odnoklassniki"
 #        url: "https://connect.ok.ru/offer?url={{post.permalink}}"
+
+
+# MathJax Support
+mathjax:
+  enable: true
+  per_page: true
+  #cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: //cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML
